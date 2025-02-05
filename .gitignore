@@ -5,6 +5,10 @@ target/
 
 ### IntelliJ IDEA ###
 .idea/*
+*.class
+*.war
+*.jar
+*.ear
 *.iws
 *.iml
 *.ipr
